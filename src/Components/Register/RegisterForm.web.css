@@ -1,0 +1,90 @@
+.RegisterForm_MainBox {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+.RegisterForm_AlreadyLoginTxtBox {
+  position: absolute;
+  top: 2%;
+  right: 3%;
+  display: flex;
+}
+.RegisterForm_AlreadyLoginTxt {
+  font-size: 0.83vw;
+  color: #000000;
+  font-family: Open Sans;
+}
+.RegisterForm_LoginTxt {
+  color: #4e8102;
+  margin-left: 0.32vw;
+}
+.RegisterForm_SubMainBox {
+  height: 50%;
+  width: 50%;
+  margin: auto;
+}
+.RegisterForm_welcomeTxtBox {
+  font-size: 2vw;
+  color: #000000;
+  font-family: Open Sans;
+  margin-top: 1.5625vw;
+  display: flex;
+}
+.css-1wc848c-MuiFormHelperText-root.Mui-error {
+  font-size: 1rem;
+}
+.RegisterForm_storeTxt {
+  color: #4e8102;
+  margin-left: 0.52vw;
+}
+.RegisterForm_TextFieldBox {
+  margin: 0.5vw 0px;
+}
+.RegisterForm_TextFieldLabel {
+  font-size: 0.83vw !important;
+  color: #000000 !important;
+}
+.RegisterForm_TextField {
+  width: 100%;
+  font-family: Open Sans;
+}
+.input_props .MuiInputBase-input {
+  font-size: 0.822vw !important;
+  color: #000000 !important;
+  padding: 0.86vw 0.73vw;
+}
+.RegisterForm_SubmitBtn {
+  width: 100% !important;
+  margin: 1vw 0vw 0vw 0vw !important;
+  font-family: Open Sans !important;
+  background-color: #4e8102 !important;
+  border-radius: 0.3125vw !important;
+  padding: 0.52vw 0vw !important;
+  color: #fff !important;
+  text-transform: capitalize !important;
+  font-size: 1.041vw !important;
+}
+.RegisterForm_orTxt {
+  margin: 1vw 0vw !important;
+  text-align: center;
+  width: 100% !important;
+  font-family: Open Sans;
+  font-size: 1.041vw !important;
+}
+.RegisterForm_GoogleSignup {
+  width: 100% !important;
+  font-family: Open Sans !important;
+  font-size: 1.041vw !important;
+  text-transform: none !important;
+  border: 1px solid #000000 !important;
+  border-radius: 0.3125vw !important;
+  color: #000000 !important;
+  font-weight: 500 !important;
+  background-color: transparent !important;
+  position: relative;
+}
+.RegisterForm_GoogleSignupLogo {
+  position: absolute;
+  left: 5%;
+}

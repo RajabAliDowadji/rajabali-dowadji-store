@@ -1,0 +1,37 @@
+.Header_mainBox {
+  width: 100%;
+  background-color: #4e8102;
+}
+
+.Header_mainGrid {
+  padding: 0.26vw 0vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Header_whiteLogoImage {
+  width: 9vw;
+  height: 2vw;
+  margin-left: 0.52vw;
+}
+
+.Header_TabMainHeader {
+  display: flex;
+  align-items: center;
+}
+
+.Header_TabGrid {
+  text-align: center;
+  color: #ffffff
+}
+
+.Header_TabGridLink {
+  text-decoration: none;
+  color: #ffffff !important;
+  font-size: 0.53vw !important;
+  font-family: Open Sans !important;
+  text-transform: uppercase !important;
+  font-weight: normal;
+  letter-spacing: 3px;
+}

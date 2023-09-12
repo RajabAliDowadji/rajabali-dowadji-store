@@ -1,0 +1,32 @@
+.ImageGrid_mainBox {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+.ImageGrid_riderImageBox {
+  width: 100%;
+  height: 100%;
+  background-color: #c2ef7e;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.ImageGrid_riderImage {
+  width: 36vw;
+  height: 36vw;
+  object-fit: contain;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.ImageGrid_blackLogoImage {
+  width: 10.41vw;
+  height: 2.29vw;
+  object-fit: fill;
+  position: absolute;
+  top: 1%;
+  left: 1%;
+}
